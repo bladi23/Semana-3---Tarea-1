@@ -1,3 +1,5 @@
+--DEBER DE FRAGMENTACION HORIZONTAL
+
 --insert cliente1vertical(id, nombres, apellidos)
 
 
